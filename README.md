@@ -1,4 +1,5 @@
-# Shake it! A cocktails web app
+# Shake it! 
+A cocktails web app
 
 ## Description:
 This application serves as the culmination of my efforts in CS50's Introduction to Computer Science course, where I demonstrate my expertise in web development while showcasing my passion for mixology. This is a dedicated website that revolves around cocktails and drinks. Here, you can explore a wide variety of drink recipes and the necessary ingredients to make them. Alongside an extensive collection of cocktail recipes, I provide food pairing ideas to enhance the drinking experience.
