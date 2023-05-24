@@ -1,7 +1,9 @@
 # Shake it! A cocktails web app
-#### Video Demo:  https://youtu.be/VbHlrTi4YTo
+
 ## Description:
-This is a website dedicated to all things cocktail and drink-related. You will be able to explore the wide variety of drink recipes and the ingredients you will need to make them. Whether you're a seasoned mixologist or a beginner, I have something for you. Not only do I provide an extensive collection of cocktail recipes, but I also offer food pairing ideas to take your drinking experience to the next level. From classic cocktails to trendy new creations, I have it all. So sit back, grab a drink, and let's explore the wonderful world of cocktails together!
+This application serves as the culmination of my efforts in CS50's Introduction to Computer Science course, where I demonstrate my expertise in web development while showcasing my passion for mixology. This is a dedicated website that revolves around cocktails and drinks. Here, you can explore a wide variety of drink recipes and the necessary ingredients to make them. Alongside an extensive collection of cocktail recipes, I provide food pairing ideas to enhance the drinking experience.
+
+The development of this website involved the utilization of React for the frontend and Node.js for the backend. To populate the content, I incorporated two different APIs: The Cocktail DB and The Meal DB, which offer free access at their basic level.
 
 ## Getting started:
 Set up your local development environment by following these steps:
@@ -32,10 +34,6 @@ npm start
 - [Emoji favicon](https://favicon.io/emoji-favicons/cocktail-glass)
 - [Image by bridgesward from Pixabay](https://pixabay.com/photos/drinks-alcohol-cocktails-alcoholic-2578446/)
 - [Image by Guilherme Rossi from Pexels](https://www.pexels.com/photo/black-and-red-floral-textile-1819669/)
-
-
-
-
 
 
 
