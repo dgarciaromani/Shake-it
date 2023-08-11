@@ -2,7 +2,7 @@
 A cocktails web app
 
 ## Description:
-This application serves as the culmination of my efforts in CS50's Introduction to Computer Science course, where I demonstrate my expertise in web development while showcasing my passion for mixology. This is a dedicated website that revolves around cocktails and drinks. Here, you can explore a wide variety of drink recipes and the necessary ingredients to make them. Alongside an extensive collection of cocktail recipes, I provide food pairing ideas to enhance the drinking experience.
+This application serves as the culmination of my efforts in CS50's Introduction to Computer Science course, where I demonstrate my web development skills while showcasing my passion for mixology. This is a dedicated website that revolves around cocktails and drinks. Here, you can explore a wide variety of drink recipes and the necessary ingredients to make them. Alongside an extensive collection of cocktail recipes, I provide food pairing ideas to enhance the drinking experience.
 
 The development of this website involved the utilization of React for the frontend and Node.js for the backend. To populate the content, I incorporated two different APIs: The Cocktail DB and The Meal DB, which offer free access at their basic level.
 
